@@ -34,4 +34,4 @@ The `topsis` function computes TOPSIS scores and ranks, finds positive and negat
 
 The Python script generates and saves a bar plot illustrating TOPSIS scores for each alternative. The plot is shown below:
 
-![TOPSIS Scores Bar Plot](topsis_scores_bar_plot.png)
+![TOPSIS Scores Bar Plot](bar_plot.png)
