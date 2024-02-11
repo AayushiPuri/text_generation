@@ -22,7 +22,7 @@ def topsis_analysis(input_file, weights_str, impacts_str, output_file):
            
             # Generate and save a bar plot for Topsis Scores
             plt.figure(figsize=(10, 6))
-            sns.barplot(x=original_data.index + 1, y='Topsis Score', data=original_data)
+            sns.barplot(x=original_data.index + 1, y='Topsis Score', data=original_data,color='red')
             plt.title('TOPSIS Scores for Alternatives')
             plt.xlabel('Alternative')
             plt.ylabel('Topsis Score')
