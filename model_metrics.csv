@@ -1,0 +1,11 @@
+Model,Accuracy,Training Time,Model Size
+BERT,0.85,10,50
+GPT-3,0.92,15,80
+XLNet,0.88,12,60
+RoBERTa,0.9,18,90
+DistilBERT,0.87,8,40
+ALBERT,0.89,14,70
+ERNIE,0.86,16,75
+ULMFiT,0.84,20,95
+FastText,0.82,6,30
+CLIP,0.91,22,100
